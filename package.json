@@ -1,0 +1,30 @@
+{
+  "name": "reactailor",
+  "version": "0.0.1",
+  "description": "Modern UI components for React, built with Tailwind CSS.",
+  "author": {
+    "name": "Ashim Saha",
+    "email": "hello@ashimsaha.net",
+    "url": "https://ashimsaha.net"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashimsahadev/reactailor.git"
+  },
+  "keywords": [
+    "react",
+    "tailwindcss",
+    "components",
+    "ui",
+    "library",
+    "reactailor",
+    "design-system"
+  ],
+  "homepage": "https://github.com/ashimsahadev/reactailor#readme",
+  "bugs": {
+    "url": "https://github.com/ashimsahadev/reactailor/issues"
+  }
+}
